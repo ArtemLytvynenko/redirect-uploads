@@ -40,10 +40,10 @@ If you have any questions or issues, please create a ticket on the plugin page i
 
 ## License
 
-This plugin is licensed under the GNU General Public License v2.0 or later. The full license is available at [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html).
+This plugin is licensed under the GNU General Public License v3.0 or later. The full license is available at [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ---
 
 **Author:** [Artem Lytvynenko](https://github.com/ArtemLytvynenko)  
 **Version:** 1.0  
-**License:** GPL-2.0+
+**License:** GPL-3.0+
