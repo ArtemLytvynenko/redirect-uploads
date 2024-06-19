@@ -4,9 +4,9 @@
 This plugin redirects media file requests to a live site. Useful for local development when you don't need to store and upload all media files locally.
 
 ## Features
-- Automatically replace media file URLs on local site with live site media file URLs.
+- Automatically replace media file URLs on the local site with live site media file URLs.
 - Supports live site domain customization via admin panel.
-- URL replacement in any content, including embedded CSS and other URLs.
+- URL replacement in any content.
 - Support for domains with port.
 - Handling URLs with and without protocols.
 
