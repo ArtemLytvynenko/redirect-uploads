@@ -45,5 +45,5 @@ This plugin is licensed under the GNU General Public License v3.0 or later. The 
 ---
 
 **Author:** [Artem Lytvynenko](https://github.com/ArtemLytvynenko)  
-**Version:** 1.0  
+**Version:** 2.0  
 **License:** GPL-3.0+
