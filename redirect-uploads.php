@@ -153,7 +153,7 @@ function replace_media_urls($content) {
     }
 
     foreach($protocols as $protocol) {
-        if(preg_match_all('/' . preg_quote($protocol, '/') . '(.*?)(?=\s|"|\')/', $content, $matches)) {
+        if(preg_match_all('/' . preg_quote($protocol, '/') . '(.*?)(?=\s|"|\'|$)/', $content, $matches)) {
             foreach($matches[0] as $url) {
                 $file_path = str_replace($protocol, ABSPATH . 'wp-content/uploads/', $url);
                 if(!file_exists($file_path)) {
